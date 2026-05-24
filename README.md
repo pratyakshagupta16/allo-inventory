@@ -35,7 +35,8 @@ npm install
 Create a `.env` file and add:
 
 ```env
-DATABASE_URL=your_database_url
+DATABASE_URL="postgresql://postgres.dymhpdreqljrlipftxkf:pratyaksha16@aws-1-ap-south-1.pooler.supabase.com:5432/postgres"
+
 ```
 
 ## Run the Project
